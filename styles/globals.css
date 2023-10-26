@@ -1,0 +1,21 @@
+:root {
+    --bg-normal-white: #e7e4e4;
+    --font-color1 : rgb(0, 0, 0);
+}
+.nav-container{
+    display: flex;
+    width: 100%;
+    margin : 1rem;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
